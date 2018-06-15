@@ -1,5 +1,5 @@
 import { 
-    OnlyNumberDirective,
+    OnlyNumberDirective,     
     OnlyChDirective,
     OnlyEnDirective,
     OnlyDateDirective,
@@ -10,12 +10,12 @@ import {
     OnlyEnNumDirective,
     OnlyEnNumSingDirective,
     OnlyMoneyDirective,
- } from './code';
+ } from './code';    
 
 export const collection = [
     OnlyNumberDirective,
     OnlyChDirective,
-    OnlyEnDirective,
+    OnlyEnDirective, 
     OnlyDateDirective,
     OnlyDateTimeDirective,
     OnlyEmailDirective,
